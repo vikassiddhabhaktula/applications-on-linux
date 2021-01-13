@@ -1,1 +1,4 @@
-int main () {return *(char *)0;}
+int main () 
+{
+  return *(char *)0;
+}
